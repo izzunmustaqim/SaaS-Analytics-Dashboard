@@ -1,0 +1,68 @@
+/**
+ * Mock recent sales data - latest transactions.
+ */
+export const salesData = [
+  {
+    id: 'TXN-4821',
+    customer: 'Olivia Martin',
+    email: 'olivia.martin@email.com',
+    plan: 'Pro',
+    amount: 49.99,
+    date: '2026-04-14T10:32:00Z',
+    avatar: 'OM',
+  },
+  {
+    id: 'TXN-4820',
+    customer: 'Jackson Lee',
+    email: 'jackson.lee@email.com',
+    plan: 'Pro',
+    amount: 49.99,
+    date: '2026-04-14T09:15:00Z',
+    avatar: 'JL',
+  },
+  {
+    id: 'TXN-4819',
+    customer: 'Isabella Nguyen',
+    email: 'isabella.n@email.com',
+    plan: 'Free',
+    amount: 0.00,
+    date: '2026-04-14T08:44:00Z',
+    avatar: 'IN',
+  },
+  {
+    id: 'TXN-4818',
+    customer: 'William Kim',
+    email: 'will.kim@email.com',
+    plan: 'Pro',
+    amount: 49.99,
+    date: '2026-04-13T22:10:00Z',
+    avatar: 'WK',
+  },
+  {
+    id: 'TXN-4817',
+    customer: 'Sofia Davis',
+    email: 'sofia.davis@email.com',
+    plan: 'Pro',
+    amount: 49.99,
+    date: '2026-04-13T19:45:00Z',
+    avatar: 'SD',
+  },
+  {
+    id: 'TXN-4816',
+    customer: 'Liam Johnson',
+    email: 'liam.j@email.com',
+    plan: 'Free',
+    amount: 0.00,
+    date: '2026-04-13T17:30:00Z',
+    avatar: 'LJ',
+  },
+  {
+    id: 'TXN-4815',
+    customer: 'Emma Wilson',
+    email: 'emma.w@email.com',
+    plan: 'Pro',
+    amount: 49.99,
+    date: '2026-04-13T15:22:00Z',
+    avatar: 'EW',
+  },
+];
